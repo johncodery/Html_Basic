@@ -1,0 +1,371 @@
+
+body, .row-group, #testimonia, #press, .ixon, .navbar-toggler {
+    background-color:white;
+}
+
+   /* CODE REFACTOR- SECTION */
+
+#card-angle, .ixon {
+    padding: 7% 15%;
+}
+
+#navbar-section, #Footer {
+    background-color: #EB455F;
+} 
+
+.Imagery-dog, .Imagery-dogy, .Imagery-pictu {
+    border-radius: 100%;
+}
+
+#Definition, #testimonial, #press, #card-arrangement, .ixon {
+    text-align: center;
+}
+
+/* Navbar Section */
+
+
+h1 {
+    font-family: 'Montserrat', serif;
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: "Montserrat";
+    line-height: 1.2;
+}
+
+p {
+    color: #457b9d;
+    font-family: "Ubuntu";
+    font-size: 18px;
+    font-weight: 300;
+}
+
+
+.magazine {
+    font-family: "Montserrat";
+    font-size: large;
+}
+  
+.submit-button {
+    margin-left: 2rem;
+}
+
+.navbar-brand {
+    font-family: "Roboto";
+}
+
+.ubuntu {
+    font-family: "Roboto";
+    font-weight: bolder;
+    font-size: larger;
+}
+.container-fluid {
+   padding: 1rem 3rem; 
+   color: aliceblue;
+}
+
+.download-button {
+    margin-top: 1em;
+}
+
+.google-play {
+    margin-left: 10px;
+}
+.navbar-brand {
+    font-size: 30px;
+}
+
+.btn {
+    color: aliceblue;
+    padding: 0.5%, 4%;
+}
+
+.bg-dark:hover {
+  color: #f8f9fa;
+}
+
+.dropdown-item {
+   cursor: pointer;
+}
+
+.action:hover {
+    background-color: #003249;
+}
+
+.another:hover {
+    background-color: #5603ad; 
+}
+
+.else:hover {
+    background-color: #80ffdb;
+}
+
+.fa-brands {
+    margin: 4px 3px 0 5px;
+}
+
+
+.row-navbar {
+    padding: 2.5rem;
+}
+
+
+.nav-item {
+    font-size: medium;
+    padding: 0.5rem;
+}
+
+.ubuntu {
+    font-family: "Montserrat";
+    color: aliceblue;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 2rem; 
+}
+
+.iphone-6 {
+    transform: rotate(25deg);
+    margin: 30px 0 0 30px;
+    width: 250px;
+}
+
+/* Definition Section */
+
+.row-group {
+   padding: 3.8% 14%  2% 10%; 
+}
+
+.row {
+    font-family: "Ubuntu";
+}
+
+.fa-solid {
+   margin-bottom: 12px;
+   color: #EB455F;
+}
+
+.fa-sharp:hover {
+    color: #70d6ff;
+}
+
+.fa-circle-info:hover {
+    color: #b5179e;
+}
+
+
+
+
+.fa-heart:hover {
+    color: #fb8b24;
+}
+
+ /* Testimonial Section */
+
+ #testimonial {
+    color: #457b9d;
+}
+
+.carousel-item {
+    padding: 5%  23%;
+}
+
+.Imagery-dog {
+    width: 10%;  
+}
+
+.Imagery-dogy {
+    width: 30%; 
+}
+
+.Imagery-pictu {
+    width: 10%;
+}
+
+.pebbles {
+    margin-left: 1rem;
+    font-size: 1rem;
+}
+
+
+/* Press-Section */
+
+
+.image-press {
+    margin: 1rem;
+    width: 20%;
+}
+   /* Card */
+
+#card-arrangement {
+    background-color: #eff7f6;
+    padding: 4% 7%;
+}
+
+.dog-need {
+    font-family: "Roboto";
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.affordable {
+    margin-bottom: 3%;
+}
+
+   /* button-phase2  */
+
+
+#button-phase2  {
+    background-color: #eff7f6;
+}
+
+.h1 {
+    padding: 4% 35% 4% 4%;
+}
+
+.button-phases {
+    background-color: #eff7f6;
+    padding: 4% 4%;
+}
+
+.sign-up-free {
+    text-decoration: none;
+    color: #ffff;
+}
+
+.sign-up-free:hover {
+    color: #edede9;
+}
+
+.input {
+    font-size: 16px;
+    outline: none;
+    margin: 5px; 
+}
+
+.label {
+    font-family: "Merriweather";
+    font-size: 20px;
+}
+
+frameset, textarea {
+    border: groove 10px #000;
+    margin-top: 20px;
+    outline: none; 
+}
+
+.label-submit {
+    margin-top: 2%;
+}
+
+#card-angle {
+    background-color: #b5179e;
+}
+
+    /* Footer-Section */
+
+#Footer {
+    padding: 3% 25%;
+    }
+   
+.Find {
+    font-family: "Roboto";
+    font-weight: bolder;
+    color: #fff;
+}
+
+      /* Foot-icon */
+
+.social-App,.fa-envelope,.fa-instagram, .fa-facebook-f,.fa-twitter {
+    margin: 10px;
+    color: #000;
+}
+
+.copy-right {
+    font-family: "Ubuntu";
+    color: #8d99ae;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+/* Media Querry section */
+
+
+@media (min-width:1200px) {
+    .footer-family {
+     
+      font-family: "Roboto";
+      text-align: center;
+      position: static
+     }
+  
+     .Find {
+      font-size: 250%;
+     }
+  
+     #Footer {
+      padding: 3% 25%;
+      position: static;
+     }
+  }
+  
+        /* Footer-Icon */
+  
+        #Footer-icon {
+          background-color: #fff;
+        }
+    
+@media (max-width:1006px) {
+  .iphone-6 {
+    transform: rotate(0);
+    position:static;
+  }  
+ 
+  .fa-sharp:hover, .fa-circle-info:hover, .fa-heart:hover {
+    color: #EB455F;
+  }
+
+
+  .h22 {
+    padding: 1%;
+  }
+
+  .Find {
+    
+     position: static;
+    font-family: "Roboto";
+  }
+
+  .footer-family {
+   text-align: center;
+   position: static;
+
+  }
+
+}
+
+@media (max-width:524px) {
+    #Footer {  
+    position: static;
+    padding: 0;
+    }
+   .btnicon {
+    margin-bottom: 15px;
+   } 
+   .Find {
+    padding: 5%;
+    margin: 6% 7% 0 5%;
+   }
+}
+
+
+
+
+
+
+
+
+
+
